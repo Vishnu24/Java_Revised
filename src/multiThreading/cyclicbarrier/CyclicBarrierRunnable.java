@@ -1,5 +1,5 @@
 
-package multiThreading.queues;
+package multiThreading.cyclicbarrier;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

@@ -1,5 +1,5 @@
 
-package multiThreading.queues;
+package multiThreading.countlatch;
 
 import java.util.concurrent.CountDownLatch;
 
